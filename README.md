@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋->>
 
 <!--
 **wsrj/wsrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+一个喜欢研究 Windows 的学生，有时会编一些小玩意
