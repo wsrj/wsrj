@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-一个喜欢研究 Windows 的交通迷，有时会编一些小玩意
+一个交通迷，喜欢研究 Windows，目前在学 VB6，有时会编一些小玩意
